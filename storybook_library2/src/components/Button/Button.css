@@ -1,0 +1,31 @@
+button {
+    border-radius: 4px;
+    padding: 5px 25px;
+    border-style: solid;
+    font-family: "Lucia", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+
+  .small {
+    padding: 2.5px 15px;
+    width: 150px;
+    height: 46px;
+    font-size: 14px;
+  }
+  
+  .large {
+    height: 60px;
+    width: 171px;
+    padding: 10px 50px;
+    font-size: 16px;
+  }
+  
+
+/*Primary*/
+
+.primary {
+    background-color: #0069d9;
+    color: white;
+    border: #0069d9;
+    pointer-events: none; }
+
